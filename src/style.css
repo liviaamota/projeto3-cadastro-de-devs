@@ -1,0 +1,23 @@
+.techno{
+    border: none;
+    border-radius: 20px;
+    color: white;
+    background-color: deepskyblue;
+    padding: 5px 10px;
+}
+
+.regist-btn{
+    border: none;
+    border-radius: 20px;
+    color: white;
+    background-color: deepskyblue;
+    padding: 5px 10px;
+}
+
+.remove-btn{
+    border: none;
+    border-radius: 20px;
+    color: white;
+    background-color: deepskyblue;
+    padding: 5px 10px;
+}
